@@ -1,0 +1,10 @@
+# Ignore node_modules here just in case, though frontend and backend have their own
+node_modules/
+.env
+.env.*
+!.env.example
+
+.vscode/
+.idea/
+.DS_Store
+*.log
